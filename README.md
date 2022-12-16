@@ -5,7 +5,7 @@ reproduce the experiments presented in the book:
 
 The book covers mathematical modeling, parameters estimation, control scheme design and related real-time implementation for power electronic-based applications. These concepts are illustrated by adopting C2000 LaunchPad MCU family from Texas Instruments and an automatic code generation tool able to translate Simulink schemes into executable files. 
 
-If you find this repository helpful in your activities and publications, please consider citing our paper:
+If you find this repository helpful in your activities and publications, please consider citing our book:
 ```
 Rossi M., Toscani N., Mauri M., Castelli-Dezza F., "Introduction to Microcontroller Programming for Power Electronics Control Applications: Coding with MATLAB and Simulink" (1st ed.) 2021, CRC Press. https://doi.org/10.1201/9781003196938
 ```
