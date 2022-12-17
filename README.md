@@ -1,7 +1,7 @@
 ## Introduction to Microcontroller Programming for Power Electronics Control Applications
 This repository contains the MATLAB/Simulink source code to
 reproduce the experiments presented in the book: 
-"[Introduction to Microcontroller Programming for Power Electronics Control Applications](https://www.taylorfrancis.com/books/mono/10.1201/9781003196938/introduction-microcontroller-programming-power-electronics-control-applications-mattia-rossi-nicola-toscani-francesco-castelli-dezza-marco-mauri)"
+"[Introduction to Microcontroller Programming for Power Electronics Control Applications](https://www.taylorfrancis.com/books/mono/10.1201/9781003196938/introduction-microcontroller-programming-power-electronics-control-applications-mattia-rossi-nicola-toscani-francesco-castelli-dezza-marco-mauri)" M.Rossi, N.Toscani, M.Mauri, F.Castelli-Dezza.
 
 The book covers mathematical modeling, parameters estimation, control scheme design and related real-time implementation for power electronic-based applications. These concepts are illustrated by adopting C2000 LaunchPad MCU family from Texas Instruments and an automatic code generation tool able to translate Simulink schemes into executable files. 
 
@@ -9,10 +9,11 @@ If you find this repository helpful in your activities and publications, please 
 ```
 Rossi M., Toscani N., Mauri M., Castelli-Dezza F., "Introduction to Microcontroller Programming for Power Electronics Control Applications: Coding with MATLAB and Simulink" (1st ed.) 2021, CRC Press. https://doi.org/10.1201/9781003196938
 ```
+The book has been sponsorized by Texas Instruments, Wuerth Elektronik and MathWorks.
 
 ## Running experiments
 Experiments (simulation and implementation) are split in root folders referring to the book chapters.
-m-files including parameters initialization have to be executed before simulation or code generation.  
+The m-files including parameters initialization have to be executed before simulation or code generation.  
 
 >Required: MATLAB 2018b or newer
 
