@@ -3,7 +3,7 @@ This repository contains the MATLAB/Simulink source code to
 reproduce the experiments presented in the book: 
 "[Introduction to Microcontroller Programming for Power Electronics Control Applications](https://www.taylorfrancis.com/books/mono/10.1201/9781003196938/introduction-microcontroller-programming-power-electronics-control-applications-mattia-rossi-nicola-toscani-francesco-castelli-dezza-marco-mauri)" M.Rossi, N.Toscani, M.Mauri, F.Castelli-Dezza.
 
-The book covers mathematical modeling, parameters estimation, control scheme design and related real-time implementation for power electronic-based applications. These concepts are illustrated by adopting C2000 LaunchPad MCU family from Texas Instruments and an automatic code generation tool able to translate Simulink schemes into executable files. 
+The book covers the mathematical modeling, parameters estimation, control scheme design and related real-time implementation for power electronic-based applications. These concepts are illustrated by adopting C2000 LaunchPad MCU family from Texas Instruments and an automatic code generation tool able to translate Simulink schemes into executable files. 
 
 If you find this repository helpful in your activities and publications, please consider citing our book:
 ```
