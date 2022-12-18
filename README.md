@@ -25,7 +25,7 @@ The m-files including parameters initialization have to be executed before simul
 ### Feedback
 This material is currently adopted for exercises and laboratory activities at "[Politecnico di Milano (Italy)](https://www.polimi.it/en)", "[University of Nebraska-Lincoln (USA)](https://www.unl.edu/)" and "[Istanbul Technical University (Turkey)](https://www.itu.edu.tr/en)".
 
-We are looking forward to hearing your success stories, please [share them with us](mailto:mattia.rossi@epebbs.com).
+Looking forward to hearing your success stories, please [share them with us](mailto:mattia.rossi@epebbs.com).
 
 >Copyright© 2021  
 The book has been sponsored by [Texas Instruments](https://www.ti.com/tool/MATHW-3P-SLEC), [Wuerth Elektronik](https://www.we-online.com/en), [MathWorks](https://it.mathworks.com/hardware-support/ti-c2000-embedded-coder.html) and [ePEBB<sup>s</sup>](https://www.linkedin.com/company/epebbs).
