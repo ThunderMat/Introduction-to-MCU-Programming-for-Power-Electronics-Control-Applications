@@ -28,4 +28,4 @@ This material is currently adopted for exercises and laboratory activities at "[
 We are looking forward to hearing your success stories, please [share them with us](mailto:mattia.rossi@epebbs.com).
 
 >Copyright© 2021  
-The book has been sponsored by [Texas Instruments](https://www.ti.com/tool/MATHW-3P-SLEC), [Wuerth Elektronik](https://www.we-online.com/en) and [MathWorks](https://it.mathworks.com/hardware-support/ti-c2000-embedded-coder.html).
+The book has been sponsored by [Texas Instruments](https://www.ti.com/tool/MATHW-3P-SLEC), [Wuerth Elektronik](https://www.we-online.com/en), [MathWorks](https://it.mathworks.com/hardware-support/ti-c2000-embedded-coder.html) and [ePEBB<sup>s</sup>](https://www.linkedin.com/company/epebbs).
