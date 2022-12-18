@@ -9,15 +9,23 @@ If you find this repository helpful in your activities and publications, please 
 ```
 Rossi M., Toscani N., Mauri M., Castelli-Dezza F., "Introduction to Microcontroller Programming for Power Electronics Control Applications: Coding with MATLAB and Simulink" (1st ed.) 2021, CRC Press. https://doi.org/10.1201/9781003196938
 ```
-The book has been sponsored by Texas Instruments, Wuerth Elektronik and MathWorks.
+and put a star :star: to keep an eye on future commits. 
+
+
 
 ## Running experiments
 Experiments (simulation and implementation) are split in root folders referring to the book chapters.
 The m-files including parameters initialization have to be executed before simulation or code generation.  
 
->Required: MATLAB 2018b or newer
+>Required:  
+>MATLAB 2018b or newer  
+>Embedded Coder Support Package for TI C2000    
+>TI controlSUITE and Code Composer Studio v6 or newer  
 
 ### Feedback
 This material is currently adopted for exercises and laboratory activities at "[Politecnico di Milano (Italy)](https://www.polimi.it/en)", "[University of Nebraska-Lincoln (USA)](https://www.unl.edu/)" and "[Istanbul Technical University (Turkey)](https://www.itu.edu.tr/en)".
 
->Copyright© 2021 
+We are looking forward to hearing your success stories, please [share them with us](mailto:mattia.rossi@epebbs.com).
+
+>Copyright© 2021  
+The book has been sponsored by [Texas Instruments](https://www.ti.com/tool/MATHW-3P-SLEC), [Wuerth Elektronik](https://www.we-online.com/en) and [MathWorks](https://it.mathworks.com/hardware-support/ti-c2000-embedded-coder.html).
