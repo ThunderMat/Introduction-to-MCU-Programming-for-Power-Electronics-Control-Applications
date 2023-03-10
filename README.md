@@ -1,3 +1,6 @@
+![book](https://github.com/ThunderMat/Introduction-to-MCU-Programming-for-Power-Electronics-Control-Applications/blob/main/banner_book.png)   
+
+
 ## Introduction to Microcontroller Programming for Power Electronics Control Applications
 This repository contains the MATLAB/Simulink source code to
 reproduce the experiments presented in the book: 
