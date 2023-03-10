@@ -29,3 +29,9 @@ Looking forward to hearing your success stories, please [share them with us](mai
 
 >Copyright© 2021  
 The book has been sponsored by [Texas Instruments](https://www.ti.com/tool/MATHW-3P-SLEC), [Wuerth Elektronik](https://www.we-online.com/en), [MathWorks](https://it.mathworks.com/hardware-support/ti-c2000-embedded-coder.html) and [ePEBB<sup>s</sup>](https://www.linkedin.com/company/epebbs).
+
+>*Contributors over the years* (students/researchers/professors):  
+[Mattia Rossi](https://github.com/ThunderMat), Nicola Toscani, Francesco Castelli-Dezza, John Kluza, Antonin Ancelle  
+Marco Mauri, [Matteo Sposito](https://github.com/MatteoSposito94), [Andrea Polastri](https://github.com/AndreaPolastri), Luca Grittini, Alessandro Grittini,   
+Antonio Faggio, Angelo Strati, Andrea De Gruttola, Giuseppe Ballarin
+
