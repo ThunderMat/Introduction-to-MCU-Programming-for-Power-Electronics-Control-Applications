@@ -37,5 +37,5 @@ The book has been sponsored by [Texas Instruments](https://www.ti.com/tool/MATHW
 >*Contributors over the years* (students/researchers/professors):  
 [Mattia Rossi](https://github.com/ThunderMat), Nicola Toscani, Francesco Castelli-Dezza, John Kluza, Antonin Ancelle  
 Marco Mauri, [Matteo Sposito](https://github.com/MatteoSposito94), [Andrea Polastri](https://github.com/AndreaPolastri), Luca Grittini, Alessandro Grittini,   
-Antonio Faggio, Angelo Strati, Andrea De Gruttola, Giuseppe Ballarin,  
-Marco Gerosa, Alberto Paolini, Khaled ElShawarby
+Luigi Piegari, Antonio Faggio, Angelo Strati, Andrea De Gruttola, Giuseppe Ballarin,  
+Marco Gerosa, Alberto Paolini, Khaled ElShawarby, Paolo Panarese
