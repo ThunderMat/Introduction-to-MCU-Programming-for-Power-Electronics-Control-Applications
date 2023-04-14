@@ -14,7 +14,7 @@ Rossi M., Toscani N., Mauri M., Castelli-Dezza F., "Introduction to Microcontrol
 ```
 and put a star :star: to keep an eye on future commits. 
 
-[Here](http://www.how2power.com/pdf_view.php?url=/newsletters/2304/H2PToday2304_bookreview_DennisFeucht.pdf) the book review published on [How2Power April 2023 newsletter](http://www.how2power.com/pdf_view.php?url=/newsletters/2304/H2PToday2304_bookreview_DennisFeucht.pdf) from Dennis Feucht (Innovatia Laboratories) :tada:
+[Here](http://www.how2power.com/pdf_view.php?url=/newsletters/2304/H2PToday2304_bookreview_DennisFeucht.pdf) a book review published on [How2Power April 2023 newsletter](http://www.how2power.com/pdf_view.php?url=/newsletters/2304/H2PToday2304_bookreview_DennisFeucht.pdf) from Dennis Feucht (Innovatia Laboratories) :tada:
 
 
 ## Running experiments
