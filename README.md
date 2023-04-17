@@ -33,7 +33,8 @@ Looking forward to hearing your success stories...
 Please [share them with us](mailto:mattia.rossi@epebbs.com) :envelope:
 
 >Copyright© 2021  
-The book has been sponsored by [Politecnico di Milano](https://www.polimi.it/en), [Texas Instruments](https://www.ti.com/tool/MATHW-3P-SLEC), [Wuerth Elektronik](https://www.we-online.com/en), [MathWorks](https://it.mathworks.com/hardware-support/ti-c2000-embedded-coder.html) and [ePEBB<sup>s</sup>](https://epebbs.com/).
+The book has been sponsored by:  
+[Politecnico di Milano](https://www.polimi.it/en), [Texas Instruments](https://www.ti.com/tool/MATHW-3P-SLEC), [Wuerth Elektronik](https://www.we-online.com/en), [MathWorks](https://it.mathworks.com/hardware-support/ti-c2000-embedded-coder.html) and [ePEBB<sup>s</sup>](https://epebbs.com/).
 
 >*Contributors over the years* (students/researchers/professors):  
 [Mattia Rossi](https://github.com/ThunderMat), Nicola Toscani, Francesco Castelli-Dezza, John Kluza, Antonin Ancelle  
