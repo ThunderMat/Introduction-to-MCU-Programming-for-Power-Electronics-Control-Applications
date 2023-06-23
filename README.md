@@ -29,6 +29,8 @@ The m-files including the parameters initialization have to be executed before e
 ### Feedback
 This material is currently adopted for exercises and laboratory activities at "[Politecnico di Milano (Italy)](https://www.polimi.it/en)", "[University of Nebraska-Lincoln (USA)](https://www.unl.edu/)" and "[Istanbul Technical University (Turkey)](https://www.itu.edu.tr/en)".
 
+If you are interested in the HW kits, feel free to [contact me](mailto:mattia.rossi@epebbs.com) :envelope:
+
 Looking forward to hearing your success stories...  
 Please [share them with us](mailto:mattia.rossi@epebbs.com) :envelope:
 
