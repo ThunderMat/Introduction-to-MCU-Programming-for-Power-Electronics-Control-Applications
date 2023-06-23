@@ -31,8 +31,7 @@ This material is currently adopted for exercises and laboratory activities at "[
 
 If you are interested in the HW kits, feel free to [contact me](mailto:mattia.rossi@epebbs.com) :envelope:
 
-Looking forward to hearing your success stories...  
-Please [share them with us](mailto:mattia.rossi@epebbs.com) :envelope:
+:pushpin: Looking forward to hearing your success stories... please [share them with us](mailto:mattia.rossi@epebbs.com)
 
 >Copyright© 2021  
 The book has been sponsored by:  
