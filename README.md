@@ -27,7 +27,7 @@ The m-files including the parameters initialization have to be executed before e
 >TI controlSUITE (or C2000Ware) and Code Composer Studio v6 or newer  
 
 ### Feedback
-This material is currently adopted for exercises and laboratory activities at "[Politecnico di Milano (Italy)](https://www.polimi.it/en)", "[University of Nebraska-Lincoln (USA)](https://www.unl.edu/)" and "[Istanbul Technical University (Turkey)](https://www.itu.edu.tr/en)".
+This material is currently adopted for exercises and laboratory activities at "[Politecnico di Milano (Italy)](https://www.polimi.it/en)", "[University of Nebraska-Lincoln (USA)](https://www.unl.edu/)", "[Istanbul Technical University (Turkey)](https://www.itu.edu.tr/en)" and "[FH Joanneum - University of Applied Sciences (Austria)](https://www.fh-joanneum.at/en/institut/electronic-engineering/)".
 
 If you are interested in the HW kits, feel free to [contact me](mailto:mattia.rossi@epebbs.com) :envelope:
 
