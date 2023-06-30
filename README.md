@@ -10,7 +10,7 @@ The book covers the mathematical modeling, parameters estimation, control scheme
 
 If you find this repository helpful for your activities/publications, please consider citing our book:
 ```
-Rossi M., Toscani N., Mauri M., Castelli-Dezza F., "Introduction to Microcontroller Programming for Power Electronics Control Applications: Coding with MATLAB and Simulink" (1st ed.) 2021, CRC Press. https://doi.org/10.1201/9781003196938
+M. Rossi, N. Toscani, M. Mauri, F. Castelli-Dezza, "Introduction to Microcontroller Programming for Power Electronics Control Applications: Coding with MATLAB and Simulink" Boca Raton, USA: CRC Press, 2021. https://doi.org/10.1201/9781003196938
 ```
 and put a star :star: to keep an eye on future commits. 
 
@@ -23,8 +23,8 @@ The m-files including the parameters initialization have to be executed before e
 
 >Required:  
 >MATLAB 2018b or newer  
->Embedded Coder Support Package for TI C2000    
->TI controlSUITE (C2000Ware) and Code Composer Studio v6 or newer  
+>Embedded Coder Support Package for TI C2000 (or C2000 Microcontroller Blockset)     
+>TI controlSUITE (or C2000Ware) and Code Composer Studio v6 or newer  
 
 ### Feedback
 This material is currently adopted for exercises and laboratory activities at "[Politecnico di Milano (Italy)](https://www.polimi.it/en)", "[University of Nebraska-Lincoln (USA)](https://www.unl.edu/)" and "[Istanbul Technical University (Turkey)](https://www.itu.edu.tr/en)".
