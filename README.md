@@ -10,7 +10,7 @@ The book covers the mathematical modeling, parameters estimation, control scheme
 
 If you find this repository helpful for your activities/publications, please consider citing our book:
 ```
-M. Rossi, N. Toscani, M. Mauri, F. Castelli-Dezza, "Introduction to Microcontroller Programming for Power Electronics Control Applications: Coding with MATLAB and Simulink" Boca Raton, USA: CRC Press, 2021. https://doi.org/10.1201/9781003196938
+M. Rossi, N. Toscani, M. Mauri, F. Castelli-Dezza, "Introduction to Microcontroller Programming for Power Electronics Control Applications: Coding with MATLAB and Simulink". Boca Raton, USA: CRC Press, 2021. https://doi.org/10.1201/9781003196938
 ```
 and put a star :star: to keep an eye on future commits. 
 
