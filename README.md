@@ -26,7 +26,9 @@ The m-files including the parameters initialization have to be executed before e
 >Embedded Coder Support Package for TI C2000 (or C2000 Microcontroller Blockset)     
 >TI controlSUITE (or C2000Ware) and Code Composer Studio v6 or newer
 
-[![View MCU Programming for Control of Power Electronic Applications on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://it.mathworks.com/matlabcentral/fileexchange/133437-mcu-programming-for-control-of-power-electronic-applications)
+[![View MCU Programming for Control of Power Electronic Applications on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://it.mathworks.com/matlabcentral/fileexchange/133437-mcu-programming-for-control-of-power-electronic-applications) 
+
+also check [MathWorks webpage](https://it.mathworks.com/academia/books/introduction-to-microcontroller-programming-for-power-electronics-control-applications-rossi.html) or [Texas Instruments webpage](https://www.ti.com/tool/MATHW-3P-SLEC)
 
 ### Feedback
 This material is currently adopted for exercises and laboratory activities at "[Politecnico di Milano (Italy)](https://www.polimi.it/en)", "[University of Nebraska-Lincoln (USA)](https://www.unl.edu/)", and "[Istanbul Technical University (Turkey)](https://www.itu.edu.tr/en)".
@@ -38,6 +40,10 @@ If you are interested in the HW kits, feel free to [contact me](mailto:mattia.ro
 >Copyright© 2021  
 The book has been sponsored by:  
 [Politecnico di Milano](https://www.polimi.it/en), [Texas Instruments](https://www.ti.com/tool/MATHW-3P-SLEC), [Wuerth Elektronik](https://www.we-online.com/en), [MathWorks](https://it.mathworks.com/hardware-support/ti-c2000-embedded-coder.html) and [ePEBB<sup>s</sup>](https://epebbs.com/).
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=nCAH5IyyKFY
+" target="_blank"><img src="http://img.youtube.com/vi/nCAH5IyyKFY/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="250" height="190" border="10" /></a>
 
 >*Contributors over the years* (students/researchers/professors):  
 [Mattia Rossi](https://github.com/ThunderMat), Nicola Toscani, Francesco Castelli-Dezza, John Kluza, Antonin Ancelle  
