@@ -43,7 +43,7 @@ The book has been sponsored by:
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=nCAH5IyyKFY
 " target="_blank"><img src="http://img.youtube.com/vi/nCAH5IyyKFY/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="250" height="190" border="10" /></a>
+alt="IMAGE ALT TEXT HERE" width="260" height="200" border="10" /></a>
 
 >*Contributors over the years* (students/researchers/professors):  
 [Mattia Rossi](https://github.com/ThunderMat), Nicola Toscani, Francesco Castelli-Dezza, John Kluza, Antonin Ancelle  
