@@ -1,7 +1,7 @@
 ![book](https://github.com/ThunderMat/Introduction-to-MCU-Programming-for-Power-Electronics-Control-Applications/blob/main/banner_book.png)   
 
 
-## Introduction to Microcontroller Programming for Power Electronics Control Applications
+## Introduction to Microcontroller Programming for Power Electronics Control Applications :zap:
 This repository contains the MATLAB/Simulink source codes to
 reproduce the experiments presented in the book: 
 "[Introduction to Microcontroller Programming for Power Electronics Control Applications](https://www.taylorfrancis.com/books/mono/10.1201/9781003196938/introduction-microcontroller-programming-power-electronics-control-applications-mattia-rossi-nicola-toscani-francesco-castelli-dezza-marco-mauri)" M.Rossi, N.Toscani, M.Mauri, F.Castelli-Dezza.
@@ -31,17 +31,17 @@ The m-files including the parameters initialization have to be executed before e
 check [MathWorks webpage](https://it.mathworks.com/academia/books/introduction-to-microcontroller-programming-for-power-electronics-control-applications-rossi.html) or [Texas Instruments webpage](https://www.ti.com/tool/MATHW-3P-SLEC)
 
 ### Feedback
-This material is currently adopted for exercises and laboratory activities at "[Politecnico di Milano (Italy)](https://www.polimi.it/en)", "[University of Nebraska-Lincoln (USA)](https://www.unl.edu/)", and "[Istanbul Technical University (Turkey)](https://www.itu.edu.tr/en)".
+This material is currently adopted for exercises and laboratory activities at "[Politecnico di Milano (Italy)](https://www.polimi.it/en)", "[University of Nebraska-Lincoln (USA)](https://www.unl.edu/)", "[Istanbul Technical University (Turkey)](https://www.itu.edu.tr/en)", and "[Tongji University - Department of Urban Rail and Railway Engineering (China)](https://railway.tongji.edu.cn/railwayen/main.htm)".
 
-If you are interested in the HW kits, feel free to [contact me](mailto:mattia.rossi@epebbs.com) :envelope:
-
-:pushpin: Looking forward to hearing your success stories... please [share them with us](mailto:mattia.rossi@epebbs.com)
+:pushpin: If you are interested in the HW kits, feel free to [contact me](mailto:mattia.rossi@epebbs.com) :envelope:  
+:pushpin: Looking forward to hearing your success stories.... (feel free to reach out :wave:)
 
 >Copyright© 2021  
 The book has been sponsored by:  
 [Politecnico di Milano](https://www.polimi.it/en), [Texas Instruments](https://www.ti.com/tool/MATHW-3P-SLEC), [Wuerth Elektronik](https://www.we-online.com/en), [MathWorks](https://it.mathworks.com/hardware-support/ti-c2000-embedded-coder.html) and [ePEBB<sup>s</sup>](https://epebbs.com/).
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=nCAH5IyyKFY
+>:movie_camera: Check the webinar below (click on it):    
+><a href="http://www.youtube.com/watch?feature=player_embedded&v=nCAH5IyyKFY
 " target="_blank"><img src="http://img.youtube.com/vi/nCAH5IyyKFY/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="260" height="200" border="5" /></a>
 
