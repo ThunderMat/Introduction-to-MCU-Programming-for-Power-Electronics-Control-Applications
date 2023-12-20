@@ -1,7 +1,7 @@
 ![book](https://github.com/ThunderMat/Introduction-to-MCU-Programming-for-Power-Electronics-Control-Applications/blob/main/banner_book.png)   
 
 
-## Introduction to Microcontroller Programming for Power Electronics Control Applications :zap:
+## Introduction to Microcontroller Programming for Power Electronics Control Applications 
 This repository contains the MATLAB/Simulink source codes to
 reproduce the experiments presented in the book: 
 "[Introduction to Microcontroller Programming for Power Electronics Control Applications](https://www.taylorfrancis.com/books/mono/10.1201/9781003196938/introduction-microcontroller-programming-power-electronics-control-applications-mattia-rossi-nicola-toscani-francesco-castelli-dezza-marco-mauri)" M.Rossi, N.Toscani, M.Mauri, F.Castelli-Dezza.
@@ -14,7 +14,7 @@ M. Rossi, N. Toscani, M. Mauri, F. Castelli-Dezza, "Introduction to Microcontrol
 ```
 and put a star :star: to keep an eye on future commits. 
 
-[Here](http://www.how2power.com/pdf_view.php?url=/newsletters/2304/H2PToday2304_bookreview_DennisFeucht.pdf) a book review published on [How2Power newsletter (April 2023)](http://www.how2power.com/pdf_view.php?url=/newsletters/2304/H2PToday2304_bookreview_DennisFeucht.pdf) from Dennis Feucht (Innovatia Laboratories) :tada:
+:tada: [Here](http://www.how2power.com/pdf_view.php?url=/newsletters/2304/H2PToday2304_bookreview_DennisFeucht.pdf) a book review published on [How2Power newsletter (April 2023)](http://www.how2power.com/pdf_view.php?url=/newsletters/2304/H2PToday2304_bookreview_DennisFeucht.pdf) from Dennis Feucht (Innovatia Laboratories) 
 
 
 ## Running experiments
@@ -45,7 +45,7 @@ The book has been sponsored by:
 " target="_blank"><img src="http://img.youtube.com/vi/nCAH5IyyKFY/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="260" height="200" border="5" /></a>
 
->*Contributors over the years* (students/researchers/professors):  
+>:zap:*Contributors over the years* (students/researchers/professors):  
 [Mattia Rossi](https://github.com/ThunderMat), Nicola Toscani, Francesco Castelli-Dezza, John Kluza, Antonin Ancelle  
 Marco Mauri, [Matteo Sposito](https://github.com/MatteoSposito94), [Andrea Polastri](https://github.com/AndreaPolastri), Luca Grittini, Alessandro Grittini,   
 Luigi Piegari, Antonio Faggio, Angelo Strati, Andrea De Gruttola, Giuseppe Ballarin,  
